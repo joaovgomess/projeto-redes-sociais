@@ -35,3 +35,12 @@ main{
     width: 311px;
     height: 627px;
 }
+
+iframe{
+    position: relative;
+    top: 80px;
+    left: 22px;
+
+    width: 269px;
+    height: 471px;
+}
